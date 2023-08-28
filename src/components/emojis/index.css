@@ -1,0 +1,10 @@
+.emoji-image {
+  height: 70px;
+}
+
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

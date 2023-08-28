@@ -1,0 +1,40 @@
+/* Write your CSS code here. */
+.bg_container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Feed-back-container {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 20px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.love-emoji {
+  height: 80px;
+}
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+.emoji-heading-container {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 20px;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
